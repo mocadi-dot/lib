@@ -1,3 +1,3 @@
-def say_hello
-  #mon code ici
+def h(name)
+puts "Hello #{name}!"
 end
